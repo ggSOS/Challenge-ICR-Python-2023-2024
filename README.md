@@ -5,7 +5,8 @@
 
 # Dependências e instruções:
 - Caso já tenha instalado um ambiente python:
-  - Instalar a biblioteca flask manualmente ou inserindo no terminal: pip install flask
+  - Instalar a biblioteca flask manualmente ou inserindo no terminal
+  -   pip install flask
 - ou
 - Caso não tenha instalado um ambiente python:
   - Para garantir que scripts locais, como o ambiente python, possam ser executados, acesse o terminal do PowerShell de seu Dispositivo, execute e confirme a mudança deste comando:
