@@ -28,7 +28,8 @@
 # Funcionalidades:
 - Leitura do arquivo dadosPacientes.json ou pacienteTeste.json, caso o primeiro ainda não exista
 - Escrita no arquivo dadosPacientes.json
-- Criação de uma API para o endereço http://127.0.0.1:5000/api/items
+- Criação de uma API para o endereço:
+  - http://127.0.0.1:5000/api/items
     
 - Criação de uma ficha de paciente
 - Atualização da ficha de um paciente, adicionando um novo ciclo
